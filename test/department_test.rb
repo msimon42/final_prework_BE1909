@@ -1,6 +1,6 @@
 require 'minitest'
 require 'minitest/autorun'
-require_relative '..lib/department'
+require_relative '../lib/department'
 
 class DepartmentTest < Minitest::Test
   def setup
